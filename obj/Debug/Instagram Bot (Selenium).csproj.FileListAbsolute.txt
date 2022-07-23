@@ -1,0 +1,14 @@
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\bin\Debug\Instagram Bot (Selenium).exe.config
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\bin\Debug\Instagram Bot (Selenium).exe
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\bin\Debug\Instagram Bot (Selenium).pdb
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\bin\Debug\Guna.UI2.dll
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\obj\Debug\Instagram Bot (Selenium).csproj.AssemblyReference.cache
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\obj\Debug\Instagram Bot (Selenium).csproj.SuggestedBindingRedirects.cache
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\obj\Debug\Instagram_Bot__Selenium_.Form1.resources
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\obj\Debug\Instagram_Bot__Selenium_.Properties.Resources.resources
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\obj\Debug\Instagram Bot (Selenium).csproj.GenerateResource.cache
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\obj\Debug\Instagram Bot (Selenium).csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\obj\Debug\Instagram Bot (Selenium).csproj.CopyComplete
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\obj\Debug\Instagram Bot (Selenium).exe
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\obj\Debug\Instagram Bot (Selenium).pdb
+C:\Users\suley\source\repos\Instagram Bot (Selenium)\Instagram Bot (Selenium)\bin\Debug\WebDriver.dll
